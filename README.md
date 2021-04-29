@@ -18,7 +18,7 @@ They're more of an archive for me but I've made it public, just in case someone 
 # Results
 This is the MNCA produced by the Python script:<br>
 <p align="center">
-  <img src="https://github.com/WheelOfPython/Multiple-Neighborhoods-Cellular-Automata/blob/main/output.gif?raw=true">
+  <img src="https://github.com/WheelOfPython/Multiple-Neighborhoods-Cellular-Automata/blob/main/res/output.gif?raw=true">
 </p>
 Doesn't seem very interesting but it's reminiscent of the real MNCAs.
 
