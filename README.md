@@ -13,7 +13,16 @@ By doing this, you get more complex behaviors and a gradient of colors, instead 
 # My Script
 I've written the same algorithm in two scrpits, one in Python and one in p5.js, which can be run here: https://editor.p5js.org/ <br>
 They're very basic and not at all rigorous, so I didn't bother writing any explanatory comments. <br>
-They're more of an archive for me, but I've made it public, just in case someone is interested.
+They're more of an archive for me but I've made it public, just in case someone is interested.
+
+# Results
+This is the MNCA produced by the Python script:<br>
+<p align="center">
+  <img src="https://github.com/WheelOfPython/Multiple-Neighborhoods-Cellular-Automata/blob/main/output.gif?raw=true">
+</p>
+Doesn't seem very interesting but it's reminiscent of the real MNCAs.
+
+
 
 # About MNCA
 I've learned about MNCA from this YT video: Complex Behaviour from Simple Rules: 3 Simulations by Sebastian Lague
