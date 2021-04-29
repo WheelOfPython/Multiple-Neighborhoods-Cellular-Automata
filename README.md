@@ -27,5 +27,5 @@ Doesn't seem very interesting but it's reminiscent of the real MNCAs.
 # About MNCA
 I've learned about MNCA from this YT video: Complex Behaviour from Simple Rules: 3 Simulations by Sebastian Lague
 
-I couldn't find much information regarding MNCA on the first page of Google, so my implematation is based on this one:
+I couldn't find much information regarding MNCA on the first page of Google, so my implematation is heavily based on this one:
 https://softologyblog.wordpress.com/2018/03/09/multiple-neighborhoods-cellular-automata/
